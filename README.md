@@ -19,7 +19,7 @@ Experienced educator transitioning to technical writing, specializing in clear, 
 - Exploring documentation tools
 - Building comprehensive writing portfolio
 
-  ### Professional Goals
+### Professional Goals
 - Becoming a proficient technical writer
 - Create impactful, user-centered documentation
 - Leverage documentation skills in tech industry
