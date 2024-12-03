@@ -1,32 +1,28 @@
 # Technical Writing Portfolio
 
-## Professional Strengths
-Experienced educator transitioning to technical writing, specializing in clear, concise communication.
+## Professional Transition
+Experienced educator specializing in English Language Arts, transitioning to technical writing with clear and concise communication skills.
 
-### Professional Strrengths 
-- Expert-level writing skills
-- Ability to explain intricate concpets clearly
-- Creative approach to documentation 
-- Strong attention to detail
+### Professional Strengths 
+- Advanced writing and proofreading expertise 
+- Creating clear, structured instructional content
+- Breaking down complex ideas
+- Developing engaging educational materials
+- 
+### Technical Writing Comptencies
+- Curriculum design experience
+- Vocabulary development skills
+- Step-by-step instructional content creation
+- Creative problem-solving in documentation
+- 
+### Specialized Background
+- English Language Arts and Reading Intervention
+- High school and middle school educational content development 
+- Proven ability to communicate complex ideas effectively
 
-### Technical Writing Focus Areas
-- Clear, concise documentation
-- User-friendly instructional guides
-- Process explanation and simplification
+### Learning Goals
+- Master technical documentation tools
+- Build comprehensive technical writing portfolio
+- Transition into professional technical communication roles
 
-### Current Learning Path
-- Developing technical writing skills
-- Exploring documentation tools
-- Building comprehensive writing portfolio
-
-### Professional Goals
-- Becoming a proficient technical writer
-- Create impactful, user-centered documentation
-- Leverage documentation skills in tech industry
-
-### Learning Resources 
-- GitHub documentation projeects
-- Techinical writing courses
-- Professional writing communitities
-
-  *Ongoing portfolio development and skill building 
+*Actively developing technical writing skills*
